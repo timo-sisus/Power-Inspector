@@ -89,7 +89,7 @@ Installing Power Inspector is done using the Asset Store window inside of Unity.
 ### Opening The Power Inspector Window
 
 Use the menu item **Window > General > Power Inspector** to open the Power Inspector Window.
-You can also open a new Power Inspector window using the keyboard shortcut **Ctrl+Shift+T**(**Cmd+Shift+T** on macOS).
+You can also open a new Power Inspector window using the keyboard shortcut **Ctrl+Shift+T** (**Cmd+Shift+T** on macOS).
 
 ![](https://docs.sisus.co/wp-content/uploads/2019/04/OpeningPowerInspector.png)
 
