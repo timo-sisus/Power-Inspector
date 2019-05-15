@@ -77,25 +77,19 @@ The latest version of Unity tested to be working is **2019.1.0f2** (newer versio
 ### How To Install
 
 Installing Power Inspector is done using the Asset Store window inside of Unity.
-Open the Asset Store window using the menu item **Window > Asset Store**.
-Find the listing for Power Inspector in **My Assets**.
-Click the **Download** button, then wait for the download to finish. If you don’t see a Download button next to the asset listing, you can **move on to the next step**.
-Click **Import** and wait until the loading bar disappears and the **“Import Unity Package” dialog** opens.
-Click **Import**, then wait until the loading bar disappears. You should **not** change what items are ticked on the window, unless you know what you’re doing, because that could mess up the installation.
-If you see a dialog prompt about performing an **API Update**, click the button labeled “**I made backup. Go ahead!**”
-
-Power Inspector should now be installed and all **ready to use**!
-
-If you run into any issues during installation, please refer to the Troubleshooting page.
-
-To learn how start using Power Inspector, refer to the Getting Started page.
+1.  Open the Asset Store window using the menu item Window \> Asset Store.
+2.  Find the listing for Power Inspector in My Assets.
+3.  Click the Download button, then wait for the download to finish. If you don’t see a Download button next to the asset listing, you can move on to the next step.
+4.  Click Import and wait until the loading bar disappears and the “Import Unity Package” dialog opens.
+5.  Click Import, then wait until the loading bar disappears. You should not change what items are ticked on the window, unless you know what you’re doing, because that could mess up the installation.
+6.  If you see a dialog prompt about performing an API Update, click the button labeled “I made backup. Go ahead!”
 
 ## Getting Started
 
 ### Opening The Power Inspector Window
 
 Use the menu item **Window > General > Power Inspector** to open the Power Inspector Window.
-You can also open a new Power Inspector window using the keyboard shortcut **Ctrl+Shift+T **(**Cmd+Shift+T** on macOS).
+You can also open a new Power Inspector window using the keyboard shortcut **Ctrl+Shift+T**(**Cmd+Shift+T** on macOS).
 
 ![](https://docs.sisus.co/wp-content/uploads/2019/04/OpeningPowerInspector.png)
 
