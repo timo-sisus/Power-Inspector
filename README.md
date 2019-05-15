@@ -99,6 +99,4 @@ You can also open a new Power Inspector window using the keyboard shortcut **Ctr
 
 In terms of the basics, you use the Power Inspector window like you would use the default inspector: when you **select** Unity Objects in the **Hierarchy** window or the **Project** window, their **data is displayed** in the inspector view, where you can view and edit it.
 
-There are then a multitude of enhancements that Power Inspector adds on top of the basic feature set. Read through the Feature pages to **learn** all about those enhancements, and unlock the **full potential** of Power Inspector.
-
 For more information refer to the [full online documentation](https://docs.sisus.co/power-inspector).
